@@ -1,0 +1,6 @@
+[user]
+	signingkey = B3E38C4A2BBDBA1E
+	email = tanvirtex@gmail.com
+	name = T. Rahaman
+[credential]
+	helper = cache --timeout=604800
